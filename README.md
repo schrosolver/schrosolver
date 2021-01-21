@@ -1,3 +1,10 @@
+### Hi there, I'm Aravindh 👋
+
+## Java developer
+-  👨‍💻I’m currently working at Cerner as a Software developer
+-   💬 Ask me about Algorithms 
+-   🌱 I’m currently learning Machine learning
+
 ![voila](https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif)
 <!--
 **schrosolver/schrosolver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
