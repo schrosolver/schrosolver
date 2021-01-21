@@ -1,4 +1,4 @@
-![voila](http://gph.is/1TFEOrA)
+![voila](https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif)
 <!--
 **schrosolver/schrosolver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
