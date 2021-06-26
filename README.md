@@ -5,7 +5,7 @@
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=schrosolver&layout=compact)
 
 ## Java developer
--  👨‍💻I’m currently working at Cerner as a Software developer
+-  👨‍💻I’m currently working at Cerner as a Software Engineer II
 -   💬 Ask me about Algorithms 
 -   🌱 I’m currently learning Machine learning
 
